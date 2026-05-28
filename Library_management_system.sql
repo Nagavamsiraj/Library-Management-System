@@ -240,15 +240,15 @@ FROM Issued_Books;
 -- =============================================================================================================================
 -- Thank you for exploring the Library Management System.
 -- This project demonstrates database design, relationships, data management, and SQL query operations using MySQL.
---
+
 -- Features Implemented:
--- . Database Creation
--- . Table Relationships
--- . Data Insertion
--- . Book Borrowing System
--- . Fine Management
--- . Filtering and JOIN Queries
--- . Reports and Record Tracking
+--   * Database Creation
+--   * Table Relationships
+--   * Data Insertion
+--   * Book Borrowing System
+--   * Fine Management
+--   * Filtering and JOIN Queries
+--   * Reports and Record Tracking
 --
 -- End of Project
 -- =============================================================================================================================
